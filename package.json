@@ -1,0 +1,27 @@
+{
+  "name": "nimpi-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "vue-axios": "^2.1.5",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vue init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIMPI/nimpi-frontend.git"
+  },
+  "keywords": [],
+  "author": "danielHLopes <danielhlopes90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NIMPI/nimpi-frontend/issues"
+  },
+  "homepage": "https://github.com/NIMPI/nimpi-frontend#readme"
+}
