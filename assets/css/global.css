@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 90%;
+}
+/*header*/
+.header{
+    background-color: #117A25;
+    display: flex;
+    height: 78px;
+}
+
+.header-itens{
+    margin-left: 5% ;
+}
+
+/*main*/
+
+
+
+/*footer*/
